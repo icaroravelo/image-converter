@@ -11,7 +11,8 @@ Este script em Python utiliza a biblioteca Pillow para converter imagens JPEG pa
 Certifique-se de ter Python e a biblioteca Pillow instalados. Você pode instalar a biblioteca Pillow usando:
 
 ```bash
-pip install Pillow ```
+pip install Pillow
+```
 
 
 ## Modo de uso
