@@ -1,7 +1,5 @@
 # Image Converter
 
-![Imagem de Exemplo](./pdf_folder/exemplo.pdf)
-
 Converte imagens JPEG para PDF, permitindo redimensionamento opcional.
 
 ## Introdução
@@ -14,6 +12,12 @@ Certifique-se de ter Python e a biblioteca Pillow instalados. Você pode instala
 
 ```bash
 pip install Pillow
+```
+
+
+## Modo de uso
+
+Salve os arquivos que deseja converter na pasta 'raw_files' e modifique a extensão de acordo com a necessidade.
 ```
 
 ## Modo de uso 
