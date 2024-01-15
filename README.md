@@ -14,3 +14,8 @@ Certifique-se de ter Python e a biblioteca Pillow instalados. Você pode instala
 
 ```bash
 pip install Pillow
+```
+
+## Modo de uso 
+
+Salve os arquivos que deseja converter na pasta 'raw_files', dentro do código, lembre de modificar a extensão de acordo com a necessidade.
